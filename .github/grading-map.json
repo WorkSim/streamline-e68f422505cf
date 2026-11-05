@@ -1,0 +1,11 @@
+{
+  "DATA-501": [
+    "tests/grading/test_idempotent_load.py"
+  ],
+  "DATA-509": [
+    "tests/grading/test_utc_bucketing.py"
+  ],
+  "DATA-514": [
+    "tests/grading/test_malformed_row_isolation.py"
+  ]
+}
